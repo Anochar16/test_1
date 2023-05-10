@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">599663898328-tiogspslmnk6ligo2lcujdt3knakjbu3.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">599663898328</string>
+    <string name="google_api_key" translatable="false">AIzaSyD1GUDfCRDkPeYSdI48EJIB6ccY0XVdk0s</string>
+    <string name="google_app_id" translatable="false">1:599663898328:android:c0880769bbff11f5eb71ad</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD1GUDfCRDkPeYSdI48EJIB6ccY0XVdk0s</string>
+    <string name="google_storage_bucket" translatable="false">everygym-57ad1.appspot.com</string>
+    <string name="project_id" translatable="false">everygym-57ad1</string>
+</resources>
